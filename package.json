@@ -2,7 +2,7 @@
   "name": "asset-registry",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "lint": "tslint -c tslint.json 'src/**/*.ts'",
     "pretest": "npm run lint",
